@@ -14,5 +14,3 @@ We've provided a basic `Item` class. Let's get more information on our items.
 
 
 word
-
-word
